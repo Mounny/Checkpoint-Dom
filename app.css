@@ -1,0 +1,43 @@
+* {
+    margin: 20px;
+
+}
+
+
+.mainlogo {
+    height: 300px;
+    width: 200px;
+    margin-left: 30%;
+}
+
+.cards {
+    display: flex;
+    flex: auto;
+
+}
+
+.likebtn {
+    color: black;
+
+}
+
+#lapimg {
+    width: 150px;
+    height: 100px;
+}
+
+#phoneimg {
+    width: 150px;
+    height: 100px;
+}
+
+#tvimg {
+    width: 150px;
+    height: 100px;
+
+}
+
+.cardbody {
+    display: flex;
+
+}
